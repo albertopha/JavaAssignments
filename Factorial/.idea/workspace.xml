@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24d241dc-a5f9-4cc4-bdc1-7d14f56c4f41" name="Default Changelist" comment="" />
+    <list default="true" id="5de69a98-6a3c-453e-a2e4-882ede976345" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Anagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Anagram/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1100519806">
+    <session id="1074066489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -20,53 +22,65 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1402" />
+          <entry key="java" value="244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1402" />
+          <entry key="JAVA" value="244" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment4/AnagramSolverImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment4/Tests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#517#518#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Factorial.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Tests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+                  <folding>
+                    <element signature="e#369#370#0" expanded="true" />
+                    <element signature="e#414#415#0" expanded="true" />
+                    <element signature="e#478#479#0" expanded="true" />
+                    <element signature="e#524#525#0" expanded="true" />
+                    <element signature="e#589#590#0" expanded="true" />
+                    <element signature="e#636#637#0" expanded="true" />
+                    <element signature="e#701#702#0" expanded="true" />
+                    <element signature="e#748#749#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -81,9 +95,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/net/javavideotutorials/assignment4/AnagramSolver.java" />
-        <option value="$PROJECT_DIR$/src/net/javavideotutorials/assignment4/Tests.java" />
-        <option value="$PROJECT_DIR$/src/net/javavideotutorials/assignment4/AnagramSolverImpl.java" />
+        <option value="$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Tests.java" />
+        <option value="$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Factorial.java" />
       </list>
     </option>
   </component>
@@ -103,39 +116,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Anagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anagram" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Anagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anagram" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Anagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anagram" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585875659997" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585884220200" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.19525802" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -154,15 +167,15 @@
   </component>
   <component name="RunManager">
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PracticeAssignment4" />
+      <module name="PracticeAssignment5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javavideotutorials.assignment4.*" />
+          <option name="PATTERN" value="net.javavideotutorials.assignment5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="net.javavideotutorials.assignment4" />
-      <option name="MAIN_CLASS_NAME" value="net.javavideotutorials.assignment4.Tests" />
+      <option name="PACKAGE_NAME" value="net.javavideotutorials.assignment5" />
+      <option name="MAIN_CLASS_NAME" value="net.javavideotutorials.assignment5.Tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,46 +191,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="24d241dc-a5f9-4cc4-bdc1-7d14f56c4f41" name="Default Changelist" comment="" />
-      <created>1585793754360</created>
+      <changelist id="5de69a98-6a3c-453e-a2e4-882ede976345" name="Default Changelist" comment="" />
+      <created>1585883346737</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585793754360</updated>
-      <workItem from="1585793758744" duration="2244000" />
+      <updated>1585883346737</updated>
+      <workItem from="1585883350636" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests - 2020.04.01 at 22h 34m 59s.xml">
+    <history-entry file="Tests - 2020.04.02 at 23h 13m 15s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 35m 43s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 36m 41s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 37m 11s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 37m 53s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 54m 32s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 55m 28s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 56m 48s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2020.04.01 at 22h 56m 53s.xml">
+    <history-entry file="Tests - 2020.04.02 at 23h 22m 58s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2244000" />
+    <option name="totallyTimeSpent" value="855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -228,7 +220,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17238913" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -260,48 +252,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6710">
-          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+        <state relative-caret-position="510">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
           <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment4/AnagramSolver.java">
+    <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment5/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment4/Tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#517#518#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/javavideotutorials/assignment4/AnagramSolverImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -314,7 +285,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.19525802" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -337,7 +308,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.19525802" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -357,12 +328,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PracticeAssignment4</last-edited>
+          <last-edited>PracticeAssignment5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.19525802" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -385,7 +355,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.19525802" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
